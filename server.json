@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 5000,
+      "createdAt": "2025-01-01T13:15:55.524Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 65,
+      "createdAt": "2025-05-10T13:20:35.524Z"
+    },
+    {
+      "id": 4,
+      "description": "Energia",
+      "type": "outcome",
+      "category": "Contas",
+      "price": 300,
+      "createdAt": "2025-05-07T13:08:00.524Z"
+    },
+    {
+      "id": 5,
+      "description": "internet",
+      "type": "outcome",
+      "category": "Contas",
+      "price": 200,
+      "createdAt": "2025-03-13T13:08:00.524Z"
+    },
+    {
+      "id": 8,
+      "description": "Salário",
+      "type": "income",
+      "category": "Salário",
+      "price": 4500,
+      "createdAt": "2025-05-14T13:11:00.524Z"
+    },
+    {
+      "description": "Ração",
+      "price": 190,
+      "category": "Pets",
+      "type": "outcome",
+      "createdAt": "2025-05-27T12:30:14.274Z",
+      "id": 9
+    }
+  ]
+}
