@@ -12,9 +12,9 @@
 
 - Os valores de entradas, saídas e total são mostrados em tela e mudam de acordo com os novos dados adicionados.
 
-- Cada entrada e saída é mostrada, bem como a data e categoria do a pessoa recebeu ou gastou.
+- Cada entrada e saída é mostrada, bem como a data e categoria do que a pessoa recebeu ou gastou.
 
-- É possível filtrar por categorias específicas
+- É possível filtrar por categorias específicas.
 
 - Uma nova transação pode ser adicionada: com sua descrição, preço e categoria. Bem como se foi a entrada de algum valor ou saída. Depois é só clicar em "cadastrar" que ela será mostrada na tela inicial.
 
